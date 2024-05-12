@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/raccoon_dvloper" target="blank"><img src="https://img.shields.io/twitter/follow/raccoon_dvloper?logo=twitter&style=for-the-badge" alt="raccoon_dvloper" /></a> </p>
 
-- 🔭 I’m currently working in **Profi**
+- 🔭 I’m currently working at **Profi**
 
 - 🌱 I’m currently learning **Next.js** and **React Native**
 
