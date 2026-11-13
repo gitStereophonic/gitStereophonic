@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergei Chinkov</h1>
 <h3 align="center">Lead/Senior frontend developer</h3>
 
-- 🔭 I’m currently working at [Unico Play](https://unicoplay.com/)
+- 🔭 I’m currently working at Freedom Media
 
 - 📫 How to reach me **s.chinkov@chinkovdev.com**
 
